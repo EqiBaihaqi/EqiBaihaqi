@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Al Akbar Baihaqi</h1>
 <h3 align="center">Hey there! 👋 A Passionate Mobile Developer from Indonesia</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
 - 🔭 I’m currently working on [Android Mobile App OCR](https://github.com/EqiBaihaqi/MobileApp_OCR)
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
