@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Android Mobile App OCR](https://github.com/EqiBaihaqi/MobileApp_OCR)
 
-- 🌱 I’m currently learning **Flutter, Android Mobile Apps**
+- 🌱 I’m currently learning **Flutter and Kotlin**
 
 - 💬 Ask me about **Flutter**
 
