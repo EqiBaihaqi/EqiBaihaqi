@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **baihaqi08.aa@gmail.com**
 
