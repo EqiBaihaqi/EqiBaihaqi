@@ -1,8 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1200">
+<img src="https://media.giphy.com/media/12zFlnyyTRmIkU/giphy.gif" width="1200" height="400">
 <br>
 <h1 align="center">Hi 👋, I'm Al Akbar Baihaqi</h1>
-<h3 align="center">Mobile Developer Enthusiast from Indonesia</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
 <h3 align="center">Hey there! 👋 I'm all about mobile development, especially in the Flutter ecosystem. My coding journey revolves around creating awesome mobile experiences and delving into the intricacies of cross-platform development. Whether it's unraveling the mysteries of user interfaces or embracing the challenges of building robust apps, I'm on it! Join me in exploring the dynamic world of mobile technologies, and let's craft some cool apps together. 🚀</h3>
 
