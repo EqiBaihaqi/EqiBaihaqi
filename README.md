@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on Android Mobile App OCR (https://github.com/EqiBaihaqi/MobileApp_OCR)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Kotlin**
-- 🔭 I’m currently working on [Android Mobile App OCR]([https://github.com/justhussh/Proyek-KTP](https://github.com/justhussh/Proyek-KTP))
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Anything**
 - 🌱 I’m currently learning **Flutter, Android Mobile Apps**
