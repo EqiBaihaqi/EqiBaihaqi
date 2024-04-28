@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
 <h3 align="center">Hey there! 👋 I'm all about mobile development, especially in the Flutter ecosystem. My coding journey revolves around creating awesome mobile experiences and delving into the intricacies of cross-platform development. Whether it's unraveling the mysteries of user interfaces or embracing the challenges of building robust apps, I'm on it! Join me in exploring the dynamic world of mobile technologies, and let's craft some cool apps together. 🚀</h3>
 
-- 🔭 I’m currently working on Android Mobile App OCR (https://github.com/EqiBaihaqi/MobileApp_OCR)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eqibaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="eqibaihaqi" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
